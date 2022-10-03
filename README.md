@@ -8,4 +8,8 @@ Soon you will have my scripts for genome and metagenome assembly, from how to ch
 In another repository, you will find the prediction and annotation. 
 
 
-By the end of October 2022. I promise ...myself. 😅 
+By the end of October 2022. 
+
+I promise ...myself. 😅 
+
+------------------------------------------------------------
