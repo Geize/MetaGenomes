@@ -1,14 +1,13 @@
-## Genome and Metagenome Assembly
+## Metagenome Assembly
 -----------------------------------------------------------
 
 
 
-Soon you will have my scripts for genome and metagenome assembly, from how to check the quality sequences to the quality assembly. 
+Soon you will have my scripts for metagenome assembly from how to check the quality sequences to the quality assembly. 
 
-In another repository, you will find the prediction and annotation. 
+Most likely will be a snakemake workflow.
 
-
-By the end of October 2022. 
+Before the end of this year - 2022. 
 
 I promise ...myself. 😅 
 
