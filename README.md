@@ -3,7 +3,7 @@
 
 
 
-Soon you will have my scripts for metagenome assembly from how to check the quality sequences to the quality assembly. 
+Soon you will have my scripts for metagenome assembly - from how to check the quality sequences to the quality assembly. 
 
 Most likely will be a snakemake workflow.
 
