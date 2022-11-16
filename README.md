@@ -5,7 +5,7 @@
 
 Soon you will have my scripts for metagenome assembly - from how to check the quality sequences to the quality assembly. 
 
-Most likely will be a snakemake workflow.
+Most likely it will be a snakemake workflow.
 
 Before the end of this year - 2022. 
 
